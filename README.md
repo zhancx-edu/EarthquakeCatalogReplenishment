@@ -6,6 +6,4 @@
 
 ## Citation
 
-If you use A-BETA in your research, please cite our paper (pending publication):
-
 > Zhan, C., Zhuang, J., & Wu, S. (2025). A-BETA: Fully Automated Earthquake Catalog Replenishment Tool. *Seismological Research Letters* (under review).
