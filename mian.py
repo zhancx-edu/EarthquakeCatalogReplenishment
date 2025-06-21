@@ -1,3 +1,19 @@
+"""
+A-BETA: Fully Automated Earthquake Catalog Replenishment Tool
+Description:
+    This script implements the A-BETA (Auto-Biscale Empirical Transformation Application) method 
+    for replenishing incomplete earthquake catalogs, as described in the paper submitted to 
+    Seismological Research Letters (under review). It integrates grid-based density analysis 
+    and flexible missing region identification to improve catalog completeness.
+Authors:
+    Chengxiang Zhan, Jiancang Zhuang, Stephen Wu
+Dependencies:
+    - Required libraries listed in requirements.txt
+Citation:
+    Zhan, C., Zhuang, J., & Wu, S. (2025). A-BETA: Fully Automated Earthquake Catalog 
+    Replenishment Tool. Seismological Research Letters (under review).
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
