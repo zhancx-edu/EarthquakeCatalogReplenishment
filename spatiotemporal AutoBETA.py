@@ -9,7 +9,6 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import matplotlib
 import sys
-from scipy.spatial import Delaunay, QhullError
 
 matplotlib.use('TkAgg')
 plt.rcParams['figure.autolayout'] = False
